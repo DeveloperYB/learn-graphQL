@@ -1,0 +1,9 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "learning graphQL and make movie api with graphQL",
+  "main": "index.js",
+  "repository": "https://github.com/DeveloperYB/learn-graphQL.git",
+  "author": "Wabi",
+  "license": "MIT"
+}
